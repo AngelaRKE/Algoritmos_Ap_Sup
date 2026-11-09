@@ -7,7 +7,8 @@ Repositorio del equipo para comparar KNN, SVM y MLP en la clasificación binaria
 ```text
 comparacion-algoritmos-supervisados/
 ├── data/
-│   └── README.md
+│   └── wdbc.data
+│   └── wdbc.names
 ├── docs/
 │   ├── conclusiones.md
 │   └── equipo.md
