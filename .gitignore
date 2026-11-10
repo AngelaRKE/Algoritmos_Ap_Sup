@@ -6,10 +6,6 @@ __pycache__/
 venv/
 .env
 
-# Datos locales (quitar esta regla si el dataset puede publicarse)
-data/*
-!data/README.md
-
 # Sistema
 .DS_Store
 Thumbs.db
